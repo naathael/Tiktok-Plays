@@ -1,3 +1,7 @@
+⚠️ Information for Friday, July 28th:
+Non-functional code. I am actively working to resolve this issue! ⚠️
+
+
 # Tiktok-Plays
  
 Tiktok-Plays is built with the same purpose as Twitch-Plays.
