@@ -8,6 +8,15 @@ It mainly operates on the VBA emulator.
 
 You can modify the code in your own way to make it work with any type of game.
 
+## Requirements
+- tiktok-live-connector
+- readline
+- Keypress
+
+
+
+
+
 ## Class Key 
 ```node
 const keys = [
@@ -52,3 +61,8 @@ class KeysBind {
   }
 }
 ```
+This class represents the action to be performed when the command has been sent.
+
+
+
+
