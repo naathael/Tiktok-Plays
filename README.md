@@ -1,23 +1,26 @@
-⚠️ Information for Friday, July 28th:
-Non-functional code. I am actively working to resolve this issue! ⚠️
+⚠️ Information du lundi 27 septembre :
+Code non fonctionnel. Je travaille activement pour résoudre ce problème, et il sera corrigé d'ici le 30 septembre ! ⚠️
 
+##Tiktok-Plays
+Tiktok-Plays est construit dans le même but que Twitch-Plays.
 
-# Tiktok-Plays
- 
-Tiktok-Plays is built with the same purpose as Twitch-Plays.
+Les joueurs peuvent jouer depuis le chat en direct.
 
-Players can play from the live chat.
+Ce code fonctionne avec l'émulateur VBA (Pokémon, etc.).
 
-It mainly operates on the VBA emulator.
+Il peut être modifié pour être utilisé avec d'autres jeux.
 
-You can modify the code in your own way to make it work with any type of game.
+Si vous souhaitez le personnaliser pour qu'il s'adapte parfaitement à votre jeu et que vous avez besoin d'aide :
 
-## Requirements
-- tiktok-live-connector
-- readline
-- Keypress
+Discord : naaathael
 
+Vous pouvez modifier le code à votre façon pour le faire fonctionner avec n'importe quel type de jeu.
 
+##Exigences
+
+tiktok-live-connector
+-readline
+-Keypress
 
 
 
