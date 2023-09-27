@@ -1,7 +1,7 @@
 ⚠️ Information du lundi 27 septembre :
 Code non fonctionnel. Je travaille activement pour résoudre ce problème, et il sera corrigé d'ici le 30 septembre ! ⚠️
 
-##Tiktok-Plays
+## Tiktok-Plays
 Tiktok-Plays est construit dans le même but que Twitch-Plays.
 
 Les joueurs peuvent jouer depuis le chat en direct.
@@ -16,11 +16,11 @@ Discord : naaathael
 
 Vous pouvez modifier le code à votre façon pour le faire fonctionner avec n'importe quel type de jeu.
 
-##Exigences
+## Exigences
 
-tiktok-live-connector
--readline
--Keypress
+ -tiktok-live-connector
+ -readline
+ -Keypress
 
 
 
