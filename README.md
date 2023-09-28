@@ -1,8 +1,8 @@
 ⚠️ Information du lundi 27 septembre :
-Code non fonctionnel. Je travaille activement pour résoudre ce problème, et il sera corrigé d'ici le 30 septembre ! ⚠️
+Code non fonctionnel . Pour evitez d'autre problèmes avec se code , se code sera réecris en Python sous peut . ⚠️
 
 ## Tiktok-Plays
-Tiktok-Plays est construit dans le même but que Twitch-Plays.
+Tiktok-Plays est construit dans le même but que Twitch-Plays. Télécharger l'executable de se code ou modifier le comme vous le souhaitez ! 
 
 Les joueurs peuvent jouer depuis le chat en direct.
 
@@ -21,6 +21,7 @@ Vous pouvez modifier le code à votre façon pour le faire fonctionner avec n'im
  -tiktok-live-connector
  -readline
  -Keypress
+
 
 
 
