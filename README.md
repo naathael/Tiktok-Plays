@@ -1,4 +1,4 @@
-Mise a jour du code le 10 novembre 
+⚠️The new version of Tiktok-Plays will be released from 8pm
 ## Tiktok-Plays
 Tiktok-Plays est construit dans le même but que Twitch-Plays. Télécharger l'executable de se code ou modifier le comme vous le souhaitez ! 
 
@@ -10,7 +10,7 @@ Il peut être modifié pour être utilisé avec d'autres jeux.
 
 Si vous souhaitez le personnaliser pour qu'il s'adapte parfaitement à votre jeu et que vous avez besoin d'aide :
 
-Discord : naaathael
+Discord : naathael
 
 Vous pouvez modifier le code à votre façon pour le faire fonctionner avec n'importe quel type de jeu.
 
