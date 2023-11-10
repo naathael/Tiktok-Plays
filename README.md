@@ -1,6 +1,4 @@
-⚠️ Information du lundi 27 septembre :
-Code non fonctionnel . Pour evitez d'autre problèmes avec se code , se code sera réecris en Python sous peut . ⚠️
-
+Mise a jour du code le 10 novembre 
 ## Tiktok-Plays
 Tiktok-Plays est construit dans le même but que Twitch-Plays. Télécharger l'executable de se code ou modifier le comme vous le souhaitez ! 
 
