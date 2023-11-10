@@ -1,5 +1,5 @@
 ⚠️The new version of Tiktok-Plays will be released from 8pm
-## Tiktok-Plays
+## Tiktok-Plays (old)
 Tiktok-Plays est construit dans le même but que Twitch-Plays. Télécharger l'executable de se code ou modifier le comme vous le souhaitez ! 
 
 Les joueurs peuvent jouer depuis le chat en direct.
