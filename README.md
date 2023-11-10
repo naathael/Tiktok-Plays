@@ -1,5 +1,8 @@
-⚠️The new version of Tiktok-Plays will be released from 8pm
+
 ## Tiktok-Plays (old)
+
+⚠️You are currently browsing the old version of the code. Explore the new one [here](https://github.com/naathael/Tiktok-Live/)⚠️
+
 Tiktok-Plays est construit dans le même but que Twitch-Plays. Télécharger l'executable de se code ou modifier le comme vous le souhaitez ! 
 
 Les joueurs peuvent jouer depuis le chat en direct.
